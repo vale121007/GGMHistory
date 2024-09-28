@@ -49,7 +49,7 @@ header{
     float: right;
     display: flex;
     align-items: center;
-    min-height: 80px;
+    min-height: 70px;
     z-index: 1000;
     min-width: 300px;
 }
