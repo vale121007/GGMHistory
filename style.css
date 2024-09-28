@@ -18,7 +18,7 @@ header{
     background-color: rgb(1, 92, 1);
 }
 .navegacion{
-    position: fixed; 
+    position: static; 
     top: 0;
     left: 10%; 
     background-color: #0a4e01;
@@ -30,7 +30,7 @@ header{
 
 .interior{
     max-width: 100%;
-    padding: 20px 10px;
+    padding: 0 10px;
     margin: auto;
 }
 .logo{
